@@ -1,4 +1,4 @@
-As I'm learning more about JS, I've developed a simple Hangman game, based on some of the knowledge I have acquired so far. Some of the key elements that make up this game are:
+As I'm delving further into the world of JS, I've developed a simple Hangman game, based on some of the knowledge I have acquired so far. Some of the key elements that make up this game are:
 - Incorporating event listeners into the html, specifically around "click" events, so that functions can be invoked after these events are called
 - Starting to look at more complex functions; notably, in this project, the 'builder' function implements the initial functionality of building out the(hidden) rock band name, together with 'A-Z' options so that the player can guess the letters in the band name
 - Making use of the 'style' tag, so that "out of the box", repeatable classes can be built, and called via function invocation
